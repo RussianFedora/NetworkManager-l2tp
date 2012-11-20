@@ -11,7 +11,7 @@ Release:   1%{?dist}
 License:   GPLv2+
 Group:     System Environment/Base
 URL:       https://launchpad.net/~seriy-pr/+archive/network-manager-l2tp
-Source:    https://github.com/seriyps/NetworkManager-l2tp/archive/%{version}/%{name}-%{version}.tar.gz
+Source:    http://github.com/seriyps/NetworkManager-l2tp/archive/%{version}/%{name}-%{version}.tar.gz
 
 BuildRequires: libtool
 BuildRequires: gtk3-devel             >= %{gtk3_version}
